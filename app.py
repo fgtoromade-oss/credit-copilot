@@ -148,8 +148,8 @@ BASE_TEMPLATE = """
 
         .navbar-brand i { margin-right: 0.5rem; }
 
-        .nav-link { color: rgba(255,255,255,0.85) !important; font-weight: 500; }
-        .nav-link:hover { color: white !important; }
+        .navbar .nav-link { color: rgba(255,255,255,0.85) !important; font-weight: 500; }
+        .navbar .nav-link:hover { color: white !important; }
 
         .card {
             border: none;
